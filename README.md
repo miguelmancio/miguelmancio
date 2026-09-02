@@ -22,15 +22,13 @@
 
 ## 🧠 What I do
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
-
+🎓 ADS student & future Software Developer
+💼 Working hard while building my career
+📚 Constantly learning and improving my skills
+💻 Java, programming & software development
+🧠 Problem solving & logical thinking
+🚀 Building projects and gaining real experience
+⚡ Discipline, consistency & continuous evolution
 ---
 
 ## 🛠️ Tech Stack
