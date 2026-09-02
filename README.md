@@ -10,7 +10,7 @@
   <a href="https://github.com/miguelmancio">
     <img src="https://img.shields.io/badge/GitHub-miguelmancio-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
+  <a href="https://instagram.com/thrmancio">
     <img src="https://img.shields.io/badge/Instagram-@thrmancio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@thmancio">
