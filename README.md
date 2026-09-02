@@ -22,13 +22,12 @@
 
 ## 🧠 What I do
 
-🎓 ADS student & future Software Developer
-💼 Working hard while building my career
-📚 Constantly learning and improving my skills
-💻 Java, programming & software development
-🧠 Problem solving & logical thinking
-🚀 Building projects and gaining real experience
-⚡ Discipline, consistency & continuous evolution
+- 🎓 ADS student & future Software Developer
+- 💼 Working hard while building my career
+- 📚 Constantly learning and improving my skills
+- 💻 Java, programming & software development
+- 🚀 Building projects and gaining real experience
+- ⚡ Discipline, consistency & continuous evolution
 ---
 
 ## 🛠️ Tech Stack
