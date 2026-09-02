@@ -1,9 +1,8 @@
 # Hi 👋, I'm Miguel Mancio
 
-🚀 **Systems Analyst | Java
-🇧🇷 Brazil
+🚀 Systems Analyst | Java
 
-🚀 Estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente cursando a graduação e desenvolvendo meus conhecimentos em programação, tecnologia e desenvolvimento de software.
+🚀 Estudante de Análise e Desenvolvimento de Sistemas, atualmente cursando a graduação e desenvolvendo meus conhecimentos em programação, tecnologia e desenvolvimento de software.
 
 
 ## 🌐 Where to find me
@@ -16,7 +15,7 @@
     <img src="https://img.shields.io/badge/Instagram-@thrmancio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@thmancio">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
+    <img src="https://img.shields.io/badge/TikTok-@thmancio-000000?style=for-the-badge&logo=tiktok" />
   </a>
 </p>
 
