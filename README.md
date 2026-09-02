@@ -2,8 +2,7 @@
 
 🚀 Systems Analyst | Java
 
-🚀 Estudante de Análise e Desenvolvimento de Sistemas, atualmente cursando a graduação e desenvolvendo meus conhecimentos em programação, tecnologia e desenvolvimento de software.
-
+🚀 **Computer Science student, currently pursuing a degree in Systems Analysis and Development, passionate about technology and constantly learning.**
 
 ## 🌐 Where to find me
 
