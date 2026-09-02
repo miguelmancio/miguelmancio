@@ -2,7 +2,7 @@
 
 🚀 Systems Analyst | Java
 
-🚀 **Computer Science student, currently pursuing a degree in Systems Analysis and Development, passionate about technology and constantly learning.**
+🚀 Systems Analysis and Development student, currently pursuing my degree and continuously developing my skills in software development and technology.
 
 ## 🌐 Where to find me
 
